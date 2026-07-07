@@ -1,4 +1,6 @@
-﻿using OpenQA.Selenium;
+﻿// Extent Report feature branch practice
+
+using OpenQA.Selenium;
 using LoginAutomationFramework.Utilities;
 
 namespace LoginAutomationFramework.Pages
