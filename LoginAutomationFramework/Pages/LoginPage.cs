@@ -1,4 +1,4 @@
-﻿// Extent Report feature branch practice
+﻿// Login Page Object - Feature Branch
 
 using OpenQA.Selenium;
 using LoginAutomationFramework.Utilities;
