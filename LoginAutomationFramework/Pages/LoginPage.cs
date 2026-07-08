@@ -1,4 +1,4 @@
-// Login Page Object - Master
+// Login Page Object - Master + Conf
 
 using OpenQA.Selenium;
 using LoginAutomationFramework.Utilities;
