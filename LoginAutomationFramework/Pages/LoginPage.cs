@@ -1,4 +1,4 @@
-// Login Page Object - Master + Feature Branch
+// Login Page Object - Master
 
 using OpenQA.Selenium;
 using LoginAutomationFramework.Utilities;
