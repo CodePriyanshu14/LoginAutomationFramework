@@ -13,7 +13,7 @@ namespace LoginAutomationFramework.Pages
         private readonly By txtPassword = By.Id("password");
 
         private readonly By btnContinue =
-    By.CssSelector("button[data-action-button-primary='true']");
+            By.XPath("//button[@data-action-button-primary='true']");
 
         private readonly By lnkForgotPassword = By.LinkText("Forgot password?");
 

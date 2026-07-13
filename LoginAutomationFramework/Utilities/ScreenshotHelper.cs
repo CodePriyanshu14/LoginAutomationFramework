@@ -12,6 +12,10 @@ namespace LoginAutomationFramework.Utilities
 
             string folderPath = @"C:\Users\priyanshu.m\source\repos\LoginAutomationFramework\LoginAutomationFramework\Screenshot";
 
+            //if I clone the above path is invalid 
+            //string folderPath = Path.Combine(
+            //AppDomain.CurrentDomain.BaseDirectory,"Screenshots");
+
             //if (!Directory.Exists(folderPath))
             //{
             //    Directory.CreateDirectory(folderPath);
